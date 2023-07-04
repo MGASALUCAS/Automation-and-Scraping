@@ -25,8 +25,8 @@ def send_email(subject, sender_email, receiver_email, password):
         server.quit()
 
 # Set your email and password
-sender_email = "mgasa.loucat1@gmail.com"
-password = "YANGUMWENYEWEgoogle"
+sender_email = "**************"
+password = "*******"
 
 # List of recipient email addresses
 receiver_emails = ["computerwizard2022@gmail.com", "maulidiadam1234@gmail.com"]
